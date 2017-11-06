@@ -6,3 +6,5 @@ If you would like to play, download the folder titled 'Agar' and run the .jar fi
 Source code is located in folder titled 'Agar_Source', due to loss of original files comments
 were generated automatically upon retrieving files. Also, due to this being written at a young
 age much is left without comments. 
+
+![Alt text](/Agar-Io-Clone/blob/master/Agar_Dots.PNG?raw=true "Optional Title")
