@@ -7,4 +7,4 @@ Source code is located in folder titled 'Agar_Source', due to loss of original f
 were generated automatically upon retrieving files. Also, due to this being written at a young
 age much is left without comments. 
 
-![Alt text](/Agar-Io-Clone/blob/master/Agar_Dots.PNG?raw=true "Optional Title")
+![Alt text](/Agar_Dots.PNG?raw=true "Optional Title")
